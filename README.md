@@ -18,3 +18,4 @@ Ce TP vise à comparer différentes méthodes de quantification d'images en util
 
 ## Conclusion
 Ce TP permet d'explorer et de comparer des méthodes de quantification d'images. Les résultats serviront de base pour des analyses plus approfondies dans les TP suivants.
+---
