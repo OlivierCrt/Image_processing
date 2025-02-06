@@ -1,4 +1,4 @@
-# TP - Comparaison de Méthodes de Quantification
+# TP 1 - Comparaison de Méthodes de Quantification
 
 ## Description
 Ce TP vise à comparer différentes méthodes de quantification d'images en utilisant trois images de référence. Les techniques explorées incluent le sous-échantillonnage, la quantification avec des colormaps de 8 et 32 couleurs, et l'application du Dithering de Floyd et Steinberg. Les résultats sont évalués en termes de qualité (erreur quadratique moyenne) et de temps de traitement.
