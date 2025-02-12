@@ -25,7 +25,7 @@ def quantize_image(image, LUT):
     h, w, _ = image.shape
     pixels = image.reshape((-1, 3))
 
-    distances = np.linalg.norm(pixels[:, None, :] - LUT[None, :, :], axis=2)#euclidienne
+    distances = np.linalg.norm(pixels[:, None, :] - LUT[None, :, :], axis=2)
 
     closest_indices = np.argmin(distances, axis=1)
     quantized_pixels = LUT[closest_indices]
