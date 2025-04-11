@@ -17,10 +17,10 @@ def plot_histogram(image, title):
     return histo
 
 
-"""
+
 histobat=plot_histogram(bateaunoir, "Histogramme de bateaunoir")
 histo_ping=plot_histogram(pingu, "Histogramme de pingu")
-histo_sea=plot_histogram(seanight, "Histogramme de seanight")"""
+histo_sea=plot_histogram(seanight, "Histogramme de seanight")
 
 
 
